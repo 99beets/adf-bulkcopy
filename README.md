@@ -1,0 +1,1 @@
+Azure Data Factory pipeline. Bulk copy from Azure SQL database.
