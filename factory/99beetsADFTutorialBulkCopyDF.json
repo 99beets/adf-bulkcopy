@@ -1,0 +1,9 @@
+{
+	"name": "99beetsADFTutorialBulkCopyDF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c8bef00b-4111-4167-a919-1bb780aac010",
+		"tenantId": "32b55163-ab10-4932-8dfa-a5eab7bfcc80"
+	}
+}
